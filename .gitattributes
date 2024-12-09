@@ -1,0 +1,6 @@
+Tarea3/reconocimiento_facial.py filter=lfs diff=lfs merge=lfs -text
+Tarea3/capturandoRostros.py filter=lfs diff=lfs merge=lfs -text
+Tarea3/Tarea3ReconocimientoMetodo1.py filter=lfs diff=lfs merge=lfs -text
+Tarea3/.entrenando.py filter=lfs diff=lfs merge=lfs -text
+Tarea4/Tarea4.m filter=lfs diff=lfs merge=lfs -text
+Tarea4/audio.wav filter=lfs diff=lfs merge=lfs -text
